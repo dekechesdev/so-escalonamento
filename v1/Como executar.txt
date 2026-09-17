@@ -1,0 +1,11 @@
+--- Versão 17/09/2026 ---
+Como executar:
+1. Instalar o python
+2. No terminal, rodar: python FCFS.py
+3. Escolher se será aleatório ou não (1 = sim, 0 = adicionar manualmente)
+
+A primeira versão contém apenas o algoritmo FCFS
+
+Uso de IA generativa:
+Foi utilizado Claude para entendimento do claude, realizar exercicios e para criar um documento mais formatado com minhas próprias anotações
+------------------------------------------------------------------------
