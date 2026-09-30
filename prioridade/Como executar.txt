@@ -1,0 +1,11 @@
+--- Versão 01/09/2026 ---
+Como executar:
+1. Instalar o python
+2. No terminal, rodar: python escalonamento.py
+3. Escolher se será aleatório ou não (1 = sim, 0 = adicionar manualmente)
+
+- Adicionei o algoritmo por Prioridade não-preemptivo e preemptivo, onde segue a mesma lógica do SJF, mas o processo escolhido é o de maior prioriedade (menor numero).
+
+Uso de IA generativa:
+Foi utilizado Claude para entendimento do algoritmo, realizar exercicios para teste e revisão
+------------------------------------------------------------------------
