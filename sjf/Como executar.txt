@@ -1,0 +1,11 @@
+--- Versão 24/09/2026 ---
+Como executar:
+1. Instalar o python
+2. No terminal, rodar: python escalonamento.py
+3. Escolher se será aleatório ou não (1 = sim, 0 = adicionar manualmente)
+
+- Adicionei o algoritmo SJF não-preemptivo e preemptivo, onde escolhe o processo de menor tempo de execução e em caso de empate, escolhe o que chegou antes. Na versão preemptivo, a escolha é refeita a cada volta, comparando com o tempo restante
+
+Uso de IA generativa:
+Foi utilizado Claude para entendimento do algoritmo, realizar exercicios para teste e revisão
+------------------------------------------------------------------------
